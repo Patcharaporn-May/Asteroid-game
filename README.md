@@ -1,1 +1,1 @@
-# mini2Dx asteroids
+# mini2Dx asteroids game
